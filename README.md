@@ -1,4 +1,4 @@
-This is a team project we were assigned on our internship. It is a full-stack ecommerce web-application that is developed using the MERN stack
+This is a team project we were assigned on our internship. It is a full-stack E-shop web-application that is developed using the MERN stack
 (=> MongoDB
  => Express
  => React
